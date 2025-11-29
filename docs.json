@@ -42,8 +42,8 @@
     }
   },
   "logo": {
-    "light": "/logo/ozcelik-logo-light-512x125",
-    "dark": "/logo/ozcelik-logo-dark-512x125"
+    "light": "/logo/ozcelik-logo-light-512x125.png",
+    "dark": "/logo/ozcelik-logo-dark-512x125.png"
   },
   "navbar": {
     "links": [
